@@ -15,3 +15,7 @@ Difference Calculator is a program that determines the difference between two da
 ### Compare flat .json files with *plain* structure (example of the 3rd step):
 
 [![asciicast](https://asciinema.org/a/YXB8zMwvaPsTQUUFl8kCy6hJn.svg)](https://asciinema.org/a/YXB8zMwvaPsTQUUFl8kCy6hJn)
+
+### Compare flat .yaml files with *plain* structure (example of the 5th step):
+
+[![asciicast](https://asciinema.org/a/qhR8ItKkATxbgSFhcEwZBBb89.svg)](https://asciinema.org/a/qhR8ItKkATxbgSFhcEwZBBb89)
