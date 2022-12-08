@@ -19,3 +19,7 @@ Difference Calculator is a program that determines the difference between two da
 ### Compare flat .yaml files with *plain* structure (example of the 5th step):
 
 [![asciicast](https://asciinema.org/a/qhR8ItKkATxbgSFhcEwZBBb89.svg)](https://asciinema.org/a/qhR8ItKkATxbgSFhcEwZBBb89)
+
+### Compare .json files with *nested* structure and with default STYLYSH format (example of the 6th step):
+
+[![asciicast](https://asciinema.org/a/BjectNRs9zHdNmzXgM3GZxWaD.svg)](https://asciinema.org/a/BjectNRs9zHdNmzXgM3GZxWaD)
