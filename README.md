@@ -10,3 +10,8 @@
 
 ## Description
 Difference Calculator is a program that determines the difference between two data structures.
+
+
+### Compare flat .json files with *plain* structure (example of the 3rd step):
+
+[![asciicast](https://asciinema.org/a/YXB8zMwvaPsTQUUFl8kCy6hJn.svg)](https://asciinema.org/a/YXB8zMwvaPsTQUUFl8kCy6hJn)
