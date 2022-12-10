@@ -15,7 +15,7 @@
   },
   "type": "module",
   "bin": {
-    "gendiff": "bin/gendiff.js"
+    "gendiff": "./bin/gendiff.js"
   },
   "devDependencies": {
     "@babel/core": "^7.20.2",
