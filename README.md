@@ -23,3 +23,7 @@ Difference Calculator is a program that determines the difference between two da
 ### Compare .json files with *nested* structure and with default STYLYSH format (example of the 6th step):
 
 [![asciicast](https://asciinema.org/a/BjectNRs9zHdNmzXgM3GZxWaD.svg)](https://asciinema.org/a/BjectNRs9zHdNmzXgM3GZxWaD)
+
+### Compare files with *nested* structure and with PLAIN format (example of the 7th step):
+
+[![asciicast](https://asciinema.org/a/LXUREwp5B2eKs7zTXIskn3i1V.svg)](https://asciinema.org/a/LXUREwp5B2eKs7zTXIskn3i1V)
