@@ -20,18 +20,40 @@ Difference Calculator is a program that determines the difference between two da
 
 [![asciicast](https://asciinema.org/a/YXB8zMwvaPsTQUUFl8kCy6hJn.svg)](https://asciinema.org/a/YXB8zMwvaPsTQUUFl8kCy6hJn)
 
+```sh
+gendiff __fixtures__/file1.json __fixtures__/file2.json
+```
+
 ### Compare flat .yaml files with *plain* structure (example of the 5th step):
 
 [![asciicast](https://asciinema.org/a/qhR8ItKkATxbgSFhcEwZBBb89.svg)](https://asciinema.org/a/qhR8ItKkATxbgSFhcEwZBBb89)
+
+```sh
+gendiff __fixtures__/file1.yml __fixtures__/file2.yml 
+```
 
 ### Compare .json files with *nested* structure and with default STYLYSH format (example of the 6th step):
 
 [![asciicast](https://asciinema.org/a/BjectNRs9zHdNmzXgM3GZxWaD.svg)](https://asciinema.org/a/BjectNRs9zHdNmzXgM3GZxWaD)
 
+```sh
+gendiff __fixtures__/file1.json __fixtures__/file2.json 
+```
+
 ### Compare files with *nested* structure and with PLAIN format (example of the 7th step):
 
 [![asciicast](https://asciinema.org/a/LXUREwp5B2eKs7zTXIskn3i1V.svg)](https://asciinema.org/a/LXUREwp5B2eKs7zTXIskn3i1V)
 
+```sh
+gendiff -f plain __fixtures__/file1.json __fixtures__/file2.json
+gendiff -f plain __fixtures__/file1.yml __fixtures__/file2.yml
+```
+
 ### Compare files with *nested* structure and with JSON format (example of the 8th step):
 
 [![asciicast](https://asciinema.org/a/sfCf5hOKnfMdQAOUz8LjV7FoV.svg)](https://asciinema.org/a/sfCf5hOKnfMdQAOUz8LjV7FoV)
+
+```sh
+gendiff -f json __fixtures__/file1.yml __fixtures__/file2.yml
+gendiff -f json __fixtures__/file1.json __fixtures__/file2.json  
+```
