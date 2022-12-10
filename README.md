@@ -27,3 +27,7 @@ Difference Calculator is a program that determines the difference between two da
 ### Compare files with *nested* structure and with PLAIN format (example of the 7th step):
 
 [![asciicast](https://asciinema.org/a/LXUREwp5B2eKs7zTXIskn3i1V.svg)](https://asciinema.org/a/LXUREwp5B2eKs7zTXIskn3i1V)
+
+### Compare files with *nested* structure and with JSON format (example of the 8th step):
+
+[![asciicast](https://asciinema.org/a/sfCf5hOKnfMdQAOUz8LjV7FoV.svg)](https://asciinema.org/a/sfCf5hOKnfMdQAOUz8LjV7FoV)
