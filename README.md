@@ -11,7 +11,24 @@
 ## Description
 Difference Calculator is a program that determines the difference between two data structures.
 
+## Program features:
+- Support for input formats: json, yaml, yml.
+- Output reports in the form of stylish, plain or json.
+"Difference checker" requires [Node.js](https://nodejs.org/) v18+ to run.
 
+Copy repository and install the dependencies.
+
+```sh
+git clone https://https://github.com/Vasily7277/frontend-project-46
+cd frontend-project-46/
+make install
+```
+
+For help, you can use the --help (-h) command:
+
+```sh
+gendiff --help
+```
 ### Compare flat .json files with *plain* structure (example of the 3rd step):
 
 [![asciicast](https://asciinema.org/a/YXB8zMwvaPsTQUUFl8kCy6hJn.svg)](https://asciinema.org/a/YXB8zMwvaPsTQUUFl8kCy6hJn)
