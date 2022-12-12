@@ -9,7 +9,7 @@
 
 
 ## Description
-Difference Calculator is a program that determines the difference between two data structures.
+Difference Calculator is a program that determines the difference between two data structures. 
 
 ## Program features:
 - Support for input formats: json, yaml, yml.
