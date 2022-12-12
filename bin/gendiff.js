@@ -11,6 +11,7 @@ program
   .helpOption('-h, --help', 'display help for command')
   .option('-f, --format [type]', 'output format', 'stylish')
   .arguments('<filepath1> <filepath2>')
+  .allowUnknownOption()
   .action((filepath1, filepath2, options) => {
     console.log(genDiff(filepath1, filepath2, options.format));
   });
